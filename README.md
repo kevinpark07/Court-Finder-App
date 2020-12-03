@@ -1,24 +1,12 @@
-# README
+# CourtFinder
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+CourtFinder is a web application that allows users to reserve and rate public tennis courts in New York City. It also allows you to locate other tennis players near you in the city. 
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
+Run a 'bundle install' to install all Gemfiles for CourtFinder. To run the server and start the application, run 'rails server' and open the localhost on your browser.
 
-* System dependencies
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Please make sure to update tests as appropriate.
